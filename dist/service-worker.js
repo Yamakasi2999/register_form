@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/register_form/precache-manifest.b1b8528202cdaf65eb343b59b4e59b18.js"
+  "/register_form/precache-manifest.9afbd54124d38e0273edbf6633dfaa40.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "form"});
