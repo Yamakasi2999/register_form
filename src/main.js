@@ -8,6 +8,7 @@ import 'materialize-css/dist/js/materialize.min.js'
 import './registerServiceWorker'
 
 Vue.config.productionTip = false
+Vue.config.devtools = true
 
 Vue.use(Vuelidate)
 
